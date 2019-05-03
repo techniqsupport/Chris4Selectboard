@@ -1396,26 +1396,26 @@ body {
 .cid-ro3dMZIUAw {
   background-image: url("../../../assets/images/southampton-ma-town-hall-sven-kielhorn-1-900x600.jpg");
 }
-.cid-ro3tnWpATS {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rpmi2WQM8v {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-ro3tnWpATS .mbr-slider .carousel-control {
+.cid-rpmi2WQM8v .mbr-slider .carousel-control {
   background: #1b1b1b;
 }
-.cid-ro3tnWpATS .mbr-slider .carousel-control-prev {
+.cid-rpmi2WQM8v .mbr-slider .carousel-control-prev {
   left: 0;
   margin-left: 2.5rem;
 }
-.cid-ro3tnWpATS .mbr-slider .carousel-control-next {
+.cid-rpmi2WQM8v .mbr-slider .carousel-control-next {
   right: 0;
   margin-right: 2.5rem;
 }
-.cid-ro3tnWpATS .mbr-slider .modal-body .close {
+.cid-rpmi2WQM8v .mbr-slider .modal-body .close {
   background: #1b1b1b;
 }
-.cid-ro3tnWpATS .mbr-gallery-item > div::before {
+.cid-rpmi2WQM8v .mbr-gallery-item > div::before {
   content: '';
   position: absolute;
   left: 0;
@@ -1426,14 +1426,15 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-ro3tnWpATS .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+.cid-rpmi2WQM8v .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
 }
-.cid-ro3tnWpATS .mbr-gallery-item > div:hover:before {
+.cid-rpmi2WQM8v .mbr-gallery-item > div:hover:before {
   opacity: 0.7 !important;
 }
-.cid-ro3tnWpATS .mbr-gallery-title {
+.cid-rpmi2WQM8v .mbr-gallery-title {
   font-size: .9em;
   position: absolute;
   display: block;
@@ -1443,7 +1444,7 @@ body {
   color: #fff;
   z-index: 2;
 }
-.cid-ro3tnWpATS .mbr-gallery-title:before {
+.cid-rpmi2WQM8v .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
@@ -1455,6 +1456,7 @@ body {
   opacity: 0.7;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-ro3qM0eyKv {
   padding-top: 60px;
