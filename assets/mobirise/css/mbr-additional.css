@@ -1466,17 +1466,16 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #232323, #232323) !important;
 }
-.cid-rpmBN75qGo {
-  padding-top: 0px;
-  padding-bottom: 0px;
+.cid-rpt93DYhcb {
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rpmBN75qGo .mbr-text,
-.cid-rpmBN75qGo blockquote {
+.cid-rpt93DYhcb .mbr-section-subtitle {
   color: #767676;
 }
-.cid-rpmBN75qGo .mbr-text P {
-  text-align: center;
+.cid-rpt93DYhcb H2 {
+  color: #149dcc;
 }
 .cid-rpmBXXM21G {
   padding-top: 0px;
