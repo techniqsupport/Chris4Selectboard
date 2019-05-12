@@ -1477,20 +1477,49 @@ body {
 .cid-rpt93DYhcb H2 {
   color: #149dcc;
 }
-.cid-rpmBXXM21G {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+.cid-rqdSFWozGG {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  position: relative;
+  background-color: #efefef;
 }
-.cid-rpmBXXM21G .mbr-text,
-.cid-rpmBXXM21G blockquote {
+.cid-rqdSFWozGG .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-rqdSFWozGG .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-rqdSFWozGG .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-rqdSFWozGG .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-rqdSFWozGG .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-rqdSFWozGG .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-rqdSFWozGG .card .panel-body {
   color: #767676;
 }
-.cid-rpmBXXM21G .mbr-text P {
-  text-align: left;
+.cid-rqdSFWozGG H2 {
+  color: #149dcc;
 }
 .cid-ro3qM0eyKv {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-1920x1411.jpg");
 }
@@ -1631,6 +1660,48 @@ body {
 }
 .cid-roKCuSqwhu .social-list a:focus {
   text-decoration: none;
+}
+.cid-ro5zMDh2W2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
+}
+.cid-rqdRz2isjx {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/southampton-ma-town-hall-sven-kielhorn-1-900x600.jpg");
+}
+.cid-rqdRzCg09U {
+  padding-top: 45px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rqdRzCg09U .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rqdRzCg09U H2 {
+  color: #149dcc;
+}
+.cid-rqdRA2U9ZZ {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-rqdRA2U9ZZ .mbr-text,
+.cid-rqdRA2U9ZZ blockquote {
+  color: #767676;
+}
+.cid-rqdRA2U9ZZ .mbr-text P {
+  text-align: left;
+}
+.cid-rqdUpiDb3J {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rqdUpiDb3J .mbr-text,
+.cid-rqdUpiDb3J blockquote {
+  color: #767676;
 }
 .cid-ro5zMDh2W2 {
   padding-top: 30px;
